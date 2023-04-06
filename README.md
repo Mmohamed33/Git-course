@@ -1,2 +1,4 @@
 # Git-course
-for learn github
+for learn githu
+
+## project notes
